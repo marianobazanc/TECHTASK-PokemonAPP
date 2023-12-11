@@ -1,0 +1,7 @@
+{
+  "name": "Pokemones",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
