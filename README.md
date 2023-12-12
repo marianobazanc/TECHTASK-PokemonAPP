@@ -1,5 +1,5 @@
 # PokemonAPP
-Ver DEMO: https://pokemonappaustral.netlify.app/home
+Ver DEMO: https://pokemonappaustral.netlify.app/
 
 
 
