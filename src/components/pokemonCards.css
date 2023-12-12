@@ -1,0 +1,14 @@
+.card-content{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.abilities{
+    display: flex;
+    justify-content: center;
+    gap: 7px;
+}
+.card-title{
+    text-transform: capitalize;
+}
